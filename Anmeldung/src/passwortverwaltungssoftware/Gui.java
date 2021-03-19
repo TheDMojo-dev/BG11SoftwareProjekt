@@ -9,9 +9,6 @@ public class Gui {
 
 	protected Shell shell;
 
-	/**
-	 * @wbp.parser.entryPoint
-	 */
 	public static void opengui() {
 		try {
 			Gui window = new Gui();
