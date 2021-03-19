@@ -9,7 +9,6 @@ public class Gui {
 
 	protected Shell shell;
 
-	
 	public static void opengui() {
 		try {
 			Gui window = new Gui();
